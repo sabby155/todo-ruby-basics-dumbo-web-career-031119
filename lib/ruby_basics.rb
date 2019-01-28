@@ -20,6 +20,7 @@ end
 
 def last_evaluated_value (a_name)
   name = a_name 
+  return name
 end
 
 def pizza_party
